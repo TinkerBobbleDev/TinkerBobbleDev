@@ -1,13 +1,11 @@
 <h2 align="center">Hi 👋, I'm TinkerBobble, currently building things for the web while pursuing my Bachelor Degree in Computer Science.</h2>
 
 
-- 🔭 I’m currently working on [Unicever](https://github.com/rajarshisamaddar/unicever) & [My Web Application](https://www.rajarshisamaddar.com/)
+- 🔭 I’m currently working on [Unicever](https://github.com/TinkerBobbleDev/unicever)
 
 - 🌱 I’m currently learning to **Postgre SQL**.
 
-- 👨‍💻 My Web Application [rajarshisamaddar.com](https://www.rajarshisamaddar.com/)
-
-- 📫 How to reach me hello@rajarshisamaddar.com.
+- 📫 How to reach me TinkerBobbleDev@gmail.com.
 
 
 <h3>🛠 My Top Skills</h3>
