@@ -1,8 +1,14 @@
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="20%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="20%" style="display:inline;">
 <br>
 
-<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">&nbsp;Hi, Here is Bobble .&nbsp;<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h3 align="center">Experienced <b>WEB</b>  |  <b>MOBILE</b>  |  <b>DESKTOP</b>  Application Developer</h3>
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  &nbsp;Hi, Here is Bobble .&nbsp;
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+</h1>
+<h2 align="center">
+  Experienced <b>WEB</b>  |  <b>MOBILE</b>  |  <b>DESKTOP</b>  Application Developer
+</h2>
 
 
 
