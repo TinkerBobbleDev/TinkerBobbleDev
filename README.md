@@ -1,35 +1,4 @@
-<h2 align="center">Hi 👋, I'm TinkerBobble, currently building things for the web while pursuing my Bachelor Degree in Computer Science.</h2>
-
-
-- 🔭 I’m currently working on [Unicever](https://github.com/TinkerBobbleDev/unicever)
-
-- 🌱 I’m currently learning to **Postgre SQL**.
-
-- 📫 How to reach me TinkerBobbleDev@gmail.com.
-
-
-<h3>🛠 My Top Skills</h3>
-
-<div>
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/redux/764ABC" height="40" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/sass/CC6699" height="40" alt="sass logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=deverabit&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=deverabit&locale=en&hide_title=false&layout=compact&card_width=232&langs_count=5&theme=github_dark&hide_border=true" height="150" alt="languages graph"  />
 </div>
-
----
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajarshisamaddar&label=PROFILE+VIEWS&style=for-the-badge&color=blue" alt="rajarshisamaddar" /> </p>
-
